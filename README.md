@@ -12,4 +12,4 @@ I've been involved with the Cincinnati chapter of <a href="http://gdicincinnati.
 In 2014, I completed two introductory Ruby courses: one in person with <a href="https://teamgaslight.com/training/courses/9-introduction-to-ruby-on-rails">Gaslight</a>, and the other online with <a href="https://skillcrush.com/program/learn-ruby/">Skillcrush</a>. Some of the work I did for the Skillcrush course can be found in <a href="https://github.com/goodtimesnoodlesalad/retweet-bot">this repo</a>.
 
 ## Other Projects
-In 2016, I used <a href="https://github.com/goodtimesnoodlesalad/retweet-bot">this Python program</a> to build < href="http://twitter.com/thrilled_and_ho">a Twitter bot</a>.
+In 2016, I used <a href="https://github.com/goodtimesnoodlesalad/retweet-bot">this Python program</a> to build <a href="http://twitter.com/thrilled_and_ho">a Twitter bot</a>.
