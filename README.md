@@ -9,4 +9,7 @@ I completed the <a href="https://skillcrush.com/blueprint/freelance-wordpress-de
 ## Coursework
 I've been involved with the Cincinnati chapter of <a href="http://gdicincinnati.com">Girl Develop It</a> since 2012. As a student, I've completed the <a href="https://www.girldevelopit.com/materials/intro-web">Intro to Web Concepts</a>, <a href="https://www.girldevelopit.com/materials/html-intro">Intro to HTML/CSS</a>, and <a href="https://www.girldevelopit.com/materials/intro-js">Intro to Javascript/jQuery</a> courses; as a teaching assistant, I've helped instruct Intro to HTML/CSS, <a href="https://www.girldevelopit.com/materials/inter-html">Intermediate HTML/CSS</a>, and <a href="http://gdi.johndavidback.com/python/#/">Intro to Python</a>.
 
-In 2014, I completed two introductory Ruby courses: one in person with <a href="https://teamgaslight.com/training/courses/9-introduction-to-ruby-on-rails">Gaslight</a>, and the other online with <a href="https://skillcrush.com/program/learn-ruby/">Skillcrush</a>.
+In 2014, I completed two introductory Ruby courses: one in person with <a href="https://teamgaslight.com/training/courses/9-introduction-to-ruby-on-rails">Gaslight</a>, and the other online with <a href="https://skillcrush.com/program/learn-ruby/">Skillcrush</a>. Some of the work I did for the Skillcrush course can be found in <a href="https://github.com/goodtimesnoodlesalad/retweet-bot">this repo</a>.
+
+## Other Projects
+In 2016, I used <a href="https://github.com/goodtimesnoodlesalad/retweet-bot">this Python program</a> to build < href="http://twitter.com/thrilled_and_ho">a Twitter bot</a>.
